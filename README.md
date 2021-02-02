@@ -1,4 +1,4 @@
-![Header](Header.png)
+![Header](Bilder/Header.png)
 
 
 # Innehållsförteckning
@@ -7,8 +7,9 @@
  * [Stockphoton](#stockfoton)
  * [Logon](#logon)
  * [Extensions](#chrome-extensions)
- * [VS Studio extensions](#visual-studio-code-extensions)
+ * [VS Code extensions](#visual-studio-code-extensions)
  * [Javascript Frameworks](#javascript-frameworks)
+ * [React Libraries](#react-libraries)
  * [Code Editors](#code-editors)
  * [Design verktyg](#online-design-verktyg)
 
@@ -63,7 +64,7 @@
 
 # Logon
 
-![Beans](Beans.png)
+![Beans](Bilder/Beans.png)
 | Websida | Beskrivning |
 |---|---|
 | [Free Logo Design](https://www.freelogodesign.org/) | Designa din logo gratis
